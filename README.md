@@ -70,7 +70,7 @@ Instructions available at: https://hellorob.org/tutorials/app.html
 
 ## Demo
 
-[maze1-demo]
+![maze1-demo](https://github.com/user-attachments/assets/a0278296-7ae7-4374-8bc5-51f594b5c2ac)
 
 *Path planning demonstration navigating through a complex maze environment*
 
